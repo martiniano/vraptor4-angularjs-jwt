@@ -11,9 +11,9 @@
 * Backend desenvolvido em **Java**, rodando em plataforma **Java EE7** (Estrutura Homologada no WildFLY 8.2.0 Final).
 * Banco de Dados **MySQL5.x**;
 
-# MODELO DE DADOS
+## MODELO DE DADOS
 * A modelagem de dados e os scripts **DDL** e **DML** estão disponíveis na pasta **database**;
 * Utilizado o **MySQL Workbench** para modelagem;
 
-# KEYWORDS
+## KEYWORDS
 VRaptor4; AngularJS; JSON Web Token (JWT); REST; CDI; Hibernate; MySQL5.x; JUnit; Java EE7; Maven;
